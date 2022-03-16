@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="chartBG">#dddddd</color>
+    <color name="Over">#FF3333</color>
+    <color name="Calories">#3399CC</color>
+    <color name="Button">#BED5BF</color>
+    <color name="ButtonText">#006030</color>
+    <color name="MainBG">#C9E4C9</color>
+    <color name="熱量">#3399CC</color><!--全榖雜糧類-->
+    <color name="Type1">#CC9933</color><!--全榖雜糧類-->
+    <color name="Type2">#FF9933</color><!--豆魚蛋肉類-->
+    <color name="Type3">#99CC99</color><!--蔬菜類-->
+    <color name="Type4">#FFCC00</color><!--水果類-->
+    <color name="Type5">#FF9999</color><!--乳品類-->
+    <color name="Type6">#9999CC</color><!--油脂與堅果類-->
+</resources>
