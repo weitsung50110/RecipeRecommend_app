@@ -14,6 +14,7 @@ This is our final project when we were in fourth grade at the National Taipei Un
 ![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/3.png)
 ![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/4.png)
 ![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/5.png)
+![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/6.png)
 
 ## 三折頁：
 ![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/0.JPG)
