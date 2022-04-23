@@ -12,6 +12,7 @@ This is our final project when we were in fourth grade at the National Taipei Un
 
 ![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/7.png)
 ![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/8.png)
+![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/9.png)
 
 ## 系統功能架構：
 ![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/3.png)
