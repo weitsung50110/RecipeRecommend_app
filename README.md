@@ -10,6 +10,10 @@ This is our final project when we were in fourth grade at the National Taipei Un
 文書組:
 李佳蓉、楊琳、林群閔
 
+## APP運行頁面：
+![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/10.png)
+
+## 研究背景：
 ![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/7.png)
 ![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/8.png)
 ![](https://github.com/weitsung50110/RecipeRecommend_app/blob/master/github_images/9.png)
